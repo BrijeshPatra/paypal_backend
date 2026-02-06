@@ -233,7 +233,7 @@ This is a **solid backend foundation**.
 
 ---
 
-## 13. Next Step (Tomorrow)
+## 13. Next Step 
 
 ### DTO Implementation
 
@@ -251,12 +251,6 @@ This will make the API:
 * Production-ready
 
 ---
-
-## Final Note
-
-Everything done so far follows **industry best practices** and mirrors how real fintech backends are built.
-
-Tomorrow we level it up with **DTOs and clean API contracts** 🚀
 
 ---
 
